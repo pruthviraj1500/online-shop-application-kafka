@@ -3,5 +3,7 @@ This repository contains an example implementation of an online shop application
 
 Technologies Used:-
 Backend: Java with Spring Boot
+
 Messaging: Apache Kafka
+
 Database: MongoDB , MySQL
